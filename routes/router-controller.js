@@ -1,4 +1,4 @@
-let data = require("./data");
+let data = require("../data");
 const fs = require("fs");
 
 const getEmployeeData = (req, res) => {
