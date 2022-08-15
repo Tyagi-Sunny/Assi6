@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/webpack-env": "^1.17.0"
   }
 }
